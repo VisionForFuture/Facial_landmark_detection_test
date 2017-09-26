@@ -1,0 +1,13 @@
+cd ~
+cd Desktop
+
+git clone address of repostory
+cd name of repostory
+
+
+paste project in folder
+
+git status
+git add .
+git commit -m "comment"
+git push origin master
